@@ -5,4 +5,4 @@ Anyways, hope you enjoy my stuff that I've created!
 
 Update:
 I turned this into github pages but my images aren't displaying, honestly I'm not too bothered since it's my first project.
-Though, if you know how to fix it I would appreciate very much!
+Though, if you know how to fix it, please tell me, I would appreciate it very much!
