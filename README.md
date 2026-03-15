@@ -4,5 +4,8 @@ I don't know if its suppose to be just the files and you have to put it onto som
 Anyways, hope you enjoy my stuff that I've created!
 
 Update:
-I turned this into github pages but my images aren't displaying, honestly I'm not too bothered since it's my first project.
-Though, if you know how to fix it, please tell me, I would appreciate it very much!
+I turned this into github pages, but my images aren't displaying, honestly I'm not too bothered since it's my first project.
+Though, if you know how to fix it, please tell me, I would appreciate it very much! (Issue fixed, go read Update 2)
+
+Update 2:
+Nvm guys, turns out that the "Cat holder/" in srcArray is lowercase and it's supposed to be "Cat Holder/"
